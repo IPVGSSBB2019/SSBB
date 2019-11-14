@@ -5,7 +5,7 @@ export const RENDIMIENTO: Rendimiento[] = [
   {
     id: 1,
     personas_hora: '2',
-    descripcion: 'TRAIGANME A PIÑERA!!',
+    descripcion: 'Traiganme a piñera >:C',
     estado: true
   },
   {
