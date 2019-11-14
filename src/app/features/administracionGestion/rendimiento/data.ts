@@ -11,13 +11,13 @@ export const RENDIMIENTO: Rendimiento[] = [
   {
     id: 2,
     personas_hora: '4',
-    descripcion: 'holi',
+    descripcion: 'asustado potter?',
     estado: true
   },
   {
     id: 3,
     personas_hora: '6',
-    descripcion: 'como estay',
+    descripcion: 'ni un poco',
     estado: true
   }
 ];
